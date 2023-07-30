@@ -1,2 +1,2 @@
 # gonc
-Golang Network Client (Trainig project)
+Golang Network CLI Client (Trainig project)
